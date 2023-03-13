@@ -2,9 +2,7 @@
 
 int main()
 {	
-	int a = 5, b = 10;
-	int sum = a+b;
-	printf("Sum: %d", sum);
+	int age = 18;
 	char str[] = "Dima";
-	printf("Hello, %s", str);
+	printf("Hello, %s, %d", str, age);
 }
